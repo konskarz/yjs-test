@@ -1,6 +1,10 @@
 # yjs-test
 
-This template should help get you started developing with Vue 3 in Vite.
+## Links
+
+- [Vue TodoMVC implementation](https://vuejs.org/examples/#todomvc)
+- [SyncedStore Vue Todo MVC example](https://github.com/YousefED/SyncedStore/blob/main/examples/todo-vue)
+- [Trystero WebRTC connector for Yjs](https://github.com/WinstonFassett/y-trystero)
 
 ## Recommended IDE Setup
 
